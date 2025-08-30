@@ -2,7 +2,7 @@ class Toki < Formula
   desc "Generate Xcode asset catalogs and Swift references from Figma tokens"
   homepage "https://github.com/manuelvrhovac/toki"
   url "https://github.com/manuelvrhovac/toki/releases/download/v0.8.0/toki-v0.8.0-macos.zip"
-  sha256 "59f40b0c850e75fcc921237186ad424318215bb968b94834881be490581cf7ed"
+  sha256 "3057b6ace9d20c0fe071e84e6152da7857ab6ce348f25c2f6a9fdf9d68e5cfa4"
   license "Apache-2.0"
 
   def install
